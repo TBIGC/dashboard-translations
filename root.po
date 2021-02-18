@@ -1,0 +1,635 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-11 10:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: scripts/inspect_emails.py:61
+msgid "now overdue"
+msgstr "maintenant en retard"
+
+#: scripts/setup_demo.py:26
+msgid "Post Covid Economic Recovery Plan"
+msgstr "Plan de relance économique post-Covid"
+
+#: scripts/setup_demo.py:29
+msgid ""
+"Mitigating the impacts of covid on the economy through targeted, holistic "
+"interventions"
+msgstr ""
+"Atténuer les impacts du covid sur l'économie grâce à des interventions "
+"ciblées et holistiques"
+
+#: scripts/setup_demo.py:32
+msgid "Priority Area"
+msgstr "Zone prioritaire"
+
+#: scripts/setup_demo.py:33
+msgid "Intervention"
+msgstr "Intervention"
+
+#: scripts/setup_demo.py:39
+msgid "Finance department internal action tracker"
+msgstr "Suivi des actions internes du service financier"
+
+#: scripts/setup_demo.py:42
+msgid "Tracking tasks and deadlines within the department"
+msgstr "Suivi des tâches et des délais au sein du département"
+
+#: templates/base.html:42
+msgid "Digital Dashboards"
+msgstr "Tableaux de bord digitales"
+
+#: templates/email/action_notification_email.html:11
+msgid "The action"
+msgstr "L'action"
+
+#: templates/email/action_notification_email.html:11
+msgid "which is assigned to you is"
+msgstr "qui vous est attribué est"
+
+#: templates/email/action_notification_email.html:14
+#: templates/email/new_action_email.html:22
+msgid ""
+"To add an update to this action or to mark it as completed, please visit:"
+msgstr ""
+"Pour ajouter une mise à jour à cette action ou la marquer comme terminée, "
+"veuillez visiter:"
+
+#: templates/email/base_email.html:22
+msgid "This is an automated email"
+msgstr "Ceci est un e-mail automatisé"
+
+#: templates/email/base_email.html:23
+msgid "Please do not reply"
+msgstr "Veuillez ne pas répondre"
+
+#: templates/email/base_email.html:53
+msgid ""
+"Interested in setting up your own dashboard? Please contact a TBI advisor."
+msgstr ""
+"Vous souhaitez créer votre propre tableau de bord? Veuillez contacter un "
+"conseiller TBI."
+
+#: templates/email/new_action_email.html:11
+msgid "You have been assigned a new action"
+msgstr "Une nouvelle action vous a été attribuée"
+
+#: templates/email/new_action_email.html:13
+msgid "by"
+msgstr "par"
+
+#: templates/email/new_action_email.html:16
+msgid "The deadline for this action is:"
+msgstr "La date limite pour cette action est:"
+
+#: templates/email/new_action_mention_email.html:11
+msgid "has tagged you in an update"
+msgstr "vous a tagué dans une mise à jour"
+
+#: templates/email/new_action_mention_email.html:13
+msgid "for the action"
+msgstr "pour l'action"
+
+#: templates/email/new_action_mention_email.html:17
+#: templates/email/new_action_update_email.html:18
+msgid "To respond to this update, please visit:"
+msgstr "Pour répondre à cette mise à jour, veuillez visiter:"
+
+#: templates/email/new_action_update_email.html:11
+msgid "has added a new update"
+msgstr "a ajouté une nouvelle mise à jour"
+
+#: templates/email/new_action_update_email.html:13
+msgid "to the action"
+msgstr "à l'action"
+
+#: templates/email/new_issue_email.html:11
+msgid "A new issue"
+msgstr "Un nouveau numéro"
+
+#: templates/email/new_issue_email.html:12
+msgid "has been raised by"
+msgstr "a été élevé par"
+
+#: templates/email/new_issue_email.html:15
+msgid "To view this issue or to assign it to a user, please visit:"
+msgstr ""
+"Pour voir ce problème ou pour l'attribuer à un utilisateur, veuillez visiter:"
+
+#: templates/email/new_issue_email.html:11
+msgid "A new milestone"
+msgstr "Un nouveau jalon"
+
+#: templates/email/new_issue_email.html:12
+msgid "has been added to your intervention by"
+msgstr "a été ajouté à votre intervention par"
+
+#: templates/email/new_issue_email.html:15
+msgid "To view this milestone, please visit:"
+msgstr "Pour voir ce jalon, veuillez visiter:"
+
+#: templates/email/new_user_email.html:11
+#: templates/email/user_added_to_new_dashboard_email.html:11
+msgid "You have been added to the"
+msgstr "Vous avez été ajouté au"
+
+#: templates/email/new_user_email.html:14
+msgid "Your username is"
+msgstr "Votre nom d'utilisateur est"
+
+#: templates/email/new_user_email.html:20
+msgid "Your password is"
+msgstr "Votre mot de passe est"
+
+#: templates/email/new_user_email.html:26
+msgid "You can log on using the following link"
+msgstr "Vous pouvez vous connecter en utilisant le lien suivant"
+
+#: templates/email/new_user_email.html:32
+msgid ""
+"When you log in, you will be prompted to change your password to something "
+"more memorable"
+msgstr ""
+"Lorsque vous vous connectez, vous serez invité à changer votre mot de passe "
+"en quelque chose de plus mémorable"
+
+#: templates/email/user_added_to_new_dashboard_email.html:14
+msgid ""
+"You can log on using the following link using the same username and password:"
+msgstr ""
+"Vous pouvez vous connecter en utilisant le lien suivant en utilisant le même "
+"nom d'utilisateur et mot de passe:"
+
+#: templates/email/user_added_to_new_dashboard_email.html:20
+msgid "To switch to the"
+msgstr "Pour passer au"
+
+#: templates/email/user_added_to_new_dashboard_email.html:21
+msgid "click your name in the top right corner then click 'Switch Dashboards'"
+msgstr ""
+"cliquez sur votre nom dans le coin supérieur droit puis cliquez sur `Changer "
+"de tableau de bord'"
+
+#: templates/registration/login.html:12
+msgid "Email"
+msgstr "Courriel"
+
+#: templates/registration/login.html:21
+msgid "Password"
+msgstr "Mot de passe"
+
+#: templates/registration/login.html:30
+msgid "Can't login?"
+msgstr "N'arrivez pas à vous connecter?"
+
+#: templates/registration/login.html:34
+msgid "Log in"
+msgstr "Connexion"
+
+#: templates/registration/login.html:40
+msgid "Your email and password didn't match. Please try again."
+msgstr ""
+"Votre adresse e-mail et votre mot de passe ne correspondent pas. Veuillez "
+"réessayer."
+
+#: templates/registration/password_reset_complete.html:7
+msgid "Password successfully reset"
+msgstr "Mot de passe réinitialisé avec succès"
+
+#: templates/registration/password_reset_confirm.html:13
+msgid "Change password"
+msgstr "Modifier mot de passe"
+
+#: templates/registration/password_reset_confirm.html:18
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used. Please request a new password reset."
+msgstr ""
+"Le lien de réinitialisation du mot de passe n'était pas valide, probablement "
+"parce qu'il l'a déjà étéutilisé. Veuillez demander une nouvelle "
+"réinitialisation de mot de passe."
+
+#: templates/registration/password_reset_done.html:7
+msgid "Please check your emails to finish resetting your password"
+msgstr ""
+"Veuillez vérifier vos e-mails pour terminer la réinitialisation de votre mot "
+"de passe"
+
+#: templates/registration/password_reset_done.html:10
+msgid "If you don't see the email, please check your spam folder"
+msgstr "Si vous ne voyez pas l'e-mail, veuillez vérifier votre dossier spam"
+
+#: templates/registration/password_reset_done.html:13
+msgid "Back to login"
+msgstr "Retour connexion"
+
+#: templates/registration/password_reset_email.html:5
+msgid "To reset your password please click the following link:"
+msgstr ""
+"Pour réinitialiser votre mot de passe, veuillez cliquer sur le lien suivant:"
+
+#: templates/registration/password_reset_email.html:9
+msgid ""
+"If clicking the link above doesn't work, please copy and paste the URL into "
+"your browser"
+msgstr ""
+"Si le fait de cliquer sur le lien ci-dessus ne fonctionne pas, veuillez "
+"copier et coller l'URL dans ton navigateur"
+
+#: templates/registration/password_reset_email.html:11
+msgid "Sincerely"
+msgstr "Cordialement"
+
+#: templates/registration/password_reset_email.html:13
+msgid "The"
+msgstr "Le"
+
+#: templates/registration/password_reset_email.html:13
+msgid "team"
+msgstr "equipe"
+
+#: templates/registration/password_reset_form.html:10
+msgid "Reset password"
+msgstr "Réinitialiser le mot de passe"
+#: demo/full/content.py:13
+msgid "Contact farms in districts to arrange approval visits"
+msgstr ""
+"Contacter les fermes des districts pour organiser des visites d'approbation"
+
+#: demo/full/content.py:14
+msgid ""
+"This needs to be done as soon as possible so that seed can start to be "
+"distributed"
+msgstr ""
+"Cela doit être fait le plus tôt possible pour que les semences puissent "
+"commencerdistribué"
+
+#: demo/full/content.py:26 demo/full/content.py:170
+msgid ""
+"I have contacted the farm representatives in 6 out of th 11 districts. "
+"Discussions are ongoing"
+msgstr ""
+"J'ai contacté les représentants des fermes dans 6 des 11 districts.Les "
+"discussions sont en cours"
+
+#: demo/full/content.py:36 demo/full/content.py:180
+msgid ""
+"This is taking longer than expected. I expect to be finished in one week"
+msgstr ""
+"Cela prend plus de temps que prévu. Je m'attends à être terminé dans une "
+"semaine"
+
+#: demo/full/content.py:46
+msgid ""
+"Prepare database to track how much seed has been distributed to each farm "
+"since start of project"
+msgstr ""
+"Préparer la base de données pour suivre la quantité de semences distribuée à "
+"chaque fermedepuis le début du projet"
+
+#: demo/full/content.py:47
+msgid "This is a priority as otherwise data will be lost"
+msgstr "C'est une priorité, sinon les données seront perdues"
+
+#: demo/full/content.py:59 demo/full/content.py:203
+msgid "I am currently looking into the difference database options"
+msgstr ""
+"Je suis actuellement à la recherche des différentes options de base de "
+"données"
+
+#: demo/full/content.py:69 demo/full/content.py:213
+msgid "I have now finished this. Please see attached database"
+msgstr ""
+"J'ai maintenant terminé. Veuillez consulter la base de données ci-jointe"
+
+#: demo/full/content.py:79
+msgid "Purchase 4 extra trucks to help with seed distribution"
+msgstr ""
+"Achetez 4 camions supplémentaires pour aider à la distribution des semences"
+
+#: demo/full/content.py:80 demo/full/content.py:92
+msgid "The trucks should be able to hold at least 5 tonnes of seed each"
+msgstr ""
+"Les camions devraient pouvoir contenir au moins 5 tonnes de semences chacun"
+
+#: demo/full/content.py:91
+msgid ""
+"Contact finance to get permission for purchasing extra vehicles for seed "
+"distribution"
+msgstr ""
+"Contactez le service des finances pour obtenir l'autorisation d'acheter des "
+"véhicules supplémentaires pour les semencesDistribution"
+
+#: demo/full/content.py:104
+msgid ""
+"Follow up with Department of Agriculture about planting best practices "
+"document"
+msgstr ""
+"Faire le suivi avec le ministère de l'Agriculture des meilleures pratiques "
+"de plantationdocument"
+
+#: demo/full/content.py:117
+msgid "Secure funding for the remainder of the budget gap"
+msgstr ""
+"Faire le suivi avec le ministère de l'Agriculture des meilleures pratiques "
+"de plantationdocument"
+
+#: demo/full/content.py:127
+msgid "In talks with World Bank for matched funding to cover the funding gap"
+msgstr ""
+"En pourparlers avec la Banque mondiale pour un financement de contrepartie "
+"pour combler le déficit de financement"
+
+#: demo/full/content.py:136
+msgid "No contact numbers for 3 of the farms in district 1"
+msgstr "Aucun numéro de contact pour 3 des fermes du district 1"
+
+#: demo/full/content.py:145
+msgid "Imported seeds being held at port"
+msgstr "Graines importées détenues au port"
+
+#: demo/full/content.py:157
+msgid "Secure funding for rollout of activities"
+msgstr "Assurer le financement du déploiement des activités"
+
+#: demo/full/content.py:158
+msgid ""
+"To fill the current budget deficits. Currently the department has an "
+"available budget $1,000,000"
+msgstr ""
+"Pour combler les déficits budgétaires actuels. Actuellement, le ministère a "
+"unbudget disponible 1 000 000 USD"
+
+#: demo/full/content.py:190
+msgid "Conduct impact assessment of Indigenous chicken farming"
+msgstr "Mener une évaluation d'impact de l'élevage de poulets indigènes"
+
+#: demo/full/content.py:191
+msgid ""
+"To review whether the project has met the set targets and the impact on the "
+"households and the entire citizenry."
+msgstr ""
+"Vérifier si le projet a atteint les objectifs fixés et son impact sur leles "
+"ménages et l'ensemble des citoyen."
+
+#: demo/full/content.py:223
+msgid ""
+"Develop project plan and strategy for review and roll out for implementation."
+msgstr ""
+"Développer un plan de projet et une stratégie pour examen et déploiement "
+"pour mise en œuvre."
+
+#: demo/full/content.py:224
+msgid ""
+"To identify the current situation on indigenous chicken farming,the gaps and "
+"the target beneficiaries."
+msgstr ""
+"Identifier la situation actuelle de l'élevage de poulets indigènes, les "
+"lacunes etles bénéficiaires cibles."
+
+#: demo/full/content.py:235
+msgid ""
+"Ministry of agriculture unable to make first installment as minister is away "
+"on leave for 3 days"
+msgstr ""
+"Le ministère de l'Agriculture est incapable de faire le premier versement "
+"car le ministre est absenten congé de 3 jours"
+
+#: demo/full/content.py:244
+msgid "Imported generators being held at port due to customs"
+msgstr "Générateurs importés retenus au port en raison des douanes"
+
+#: demo/full/donors.py:6
+msgid "World Food Program"
+msgstr "Programme alimentaire mondial"
+
+#: demo/full/donors.py:7
+msgid "UK Department for International Development"
+msgstr "Département britannique pour le développement international"
+
+#: demo/full/donors.py:11
+msgid "Department of agriculture"
+msgstr "Département de l'agriculture"
+
+#: demo/full/interventions.py:15
+msgid "Providing raw materials to new farms"
+msgstr "Fournir des matières premières aux nouvelles fermes"
+
+#: demo/full/interventions.py:17
+msgid ""
+"This intervention seeks to enable new farms to start producing with minimal "
+"capital investment by providing them with the raw materials needed in order "
+"to produce crops. It is hoped that by providing this initial stimulus, "
+"farmers will be encouraged to try growing new crops thereby increasing the "
+"crop varieties grown in country for use internally and eventually for export"
+msgstr ""
+"Cette intervention vise à permettre aux nouvelles exploitations de commencer "
+"à produire avec un minimumun investissement en capital en leur fournissant "
+"les matières premières nécessaires à leur fonctionnementpour produire des "
+"cultures. On espère qu'en fournissant ce stimulus initial,les agriculteurs "
+"seront encouragés à essayer de cultiver de nouvelles cultures, augmentant "
+"ainsi levariétés de cultures cultivées dans le pays pour une utilisation en "
+"interne et éventuellement pour l'exportation"
+
+#: demo/full/interventions.py:39
+msgid "Indigenous chicken farming"
+msgstr "Élevage de poulets indigènes"
+
+#: demo/full/interventions.py:41
+msgid ""
+"Indegenous chicken farming is a lucrative value chain with a ready market "
+"and driven by the high elasticicity of demand in Nyeri County. The best "
+"strategy would be fundraising for the venture and scaling up to meet market "
+"needs thus creation of income to many households."
+msgstr ""
+"L'élevage de poulets sans génie est une chaîne de valeur lucrative avec un "
+"marché prêtet motivé par la forte élasticité de la demande dans le comté de "
+"Nyeri. Le meilleurla stratégie consisterait à collecter des fonds pour "
+"l'entreprise et à se développer pour répondre au marchénécessite donc la "
+"création de revenus pour de nombreux ménages."
+
+#: demo/full/interventions.py:63 demo/full/interventions.py:64
+msgid "This demo is not set up. Please view priority area 1"
+msgstr ""
+"Cette démo n'est pas configurée. Veuillez afficher le domaine prioritaire 1"
+
+#: demo/full/priority_areas.py:11
+msgid "Local Food Production"
+msgstr "Production alimentaire locale"
+
+#: demo/full/priority_areas.py:12
+msgid "Providing assistance for the local production of food items"
+msgstr ""
+"Fournir une assistance pour la production locale de produits alimentaires"
+
+#: demo/full/priority_areas.py:27
+msgid "Small business support"
+msgstr "Soutien aux petites entreprises"
+
+#: demo/full/priority_areas.py:28
+msgid "Providing capital borrowing to small businesses"
+msgstr "Fournir des emprunts de capitaux aux petites entreprises"
+
+#: demo/full/priority_areas.py:38
+msgid "Public works employment"
+msgstr "Emploi travaux publics"
+
+#: demo/full/priority_areas.py:39
+msgid "Supporting Labour-Intensive Public Works"
+msgstr "Soutenir les travaux publics à forte intensité de main-d'œuvre"
+
+#: demo/full/targets.py:13
+msgid "Kgs of maize seed distributed"
+msgstr "Kgs de semences de maïs distribués"
+
+#: demo/full/targets.py:25
+msgid "Kgs of wheat seed distributed"
+msgstr "Kgs de semences de blé distribués"
+
+#: demo/full/targets.py:37
+#, python-format
+msgid "% of rice produced locally"
+msgstr "% de riz produit localement"
+
+#: demo/full/targets.py:52
+msgid "One month old chicks procured"
+msgstr "Des poussins d'un mois ont été achetés"
+
+#: demo/full/targets.py:64
+msgid "Incubators procured"
+msgstr "Incubateurs achetés"
+
+#: demo/full/targets.py:76
+msgid "Generators Procured"
+msgstr "Générateurs achetés"
+
+#: demo/tracker/categories.py:13
+msgid "Human resources"
+msgstr "Ressources humaines"
+
+#: demo/tracker/categories.py:27
+msgid "Logistics"
+msgstr "Logistique"
+
+#: demo/tracker/categories.py:41
+msgid "Media and PR"
+msgstr "Médias et relations publiques"
+
+#: demo/tracker/categories.py:55
+msgid "Payroll"
+msgstr "Paie"
+
+#: demo/tracker/categories.py:69
+msgid "External contracts"
+msgstr "Contrats externes"
+
+#: demo/tracker/categories.py:83
+msgid "Budgeting"
+msgstr "Budgétisation"
+
+#: demo/tracker/content.py:12
+msgid "Produce first draft of template for new employment contract"
+msgstr "Produire un premier projet de modèle de nouveau contrat de travail"
+
+#: demo/tracker/content.py:13
+msgid "Circulate once completed"
+msgstr "Circuler une fois terminé"
+
+#: demo/tracker/content.py:25
+msgid "@**Fatu Jones**<!--57602--> please email me the previous template "
+msgstr ""
+"@ ** Fatu Jones ** <! - 57602 -> veuillez m'envoyer le modèle précédent par e-mail"
+
+#: demo/tracker/content.py:36
+msgid "Clarify security protocol for withdrawing cash from the bank"
+msgstr ""
+"Clarifier le protocole de sécurité pour retirer de l'argent à la banque"
+
+#: demo/tracker/content.py:37
+msgid "Please create a draft one page procedure"
+msgstr ""
+"Veuillez créer un brouillon de procédure d'une page"
+
+#: demo/tracker/content.py:49
+msgid ""
+"I cannot complete this until the bank manager returns from leave. Please "
+"grant an extension."
+msgstr ""
+
+#: demo/tracker/content.py:61
+msgid "Organise press release for upcoming economic stimulus package"
+msgstr ""
+"Je ne peux pas terminer cela tant que le directeur de la banque n'est pas revenu de congé. S'il vous plaît"
+"accorder une extension."
+
+#: demo/tracker/content.py:74
+msgid ""
+"The press release went ahead yesterday. @**Aminata Kallon**<!--57602--> "
+"please mark as completed"
+msgstr ""
+"Le communiqué de presse a été diffusé hier. @ ** Aminata Kallon ** <! - 57602 ->"
+"veuillez marquer comme terminé"
+
+#: demo/tracker/content.py:87
+msgid ""
+"Employees from IT and Comms are reporting that they have not received their "
+"salaries for this month"
+msgstr ""
+"Les employés de l'informatique et des communications signalent qu'ils n'ont pas reçu leur"
+"salaires pour ce mois"
+
+#: demo/tracker/content.py:88 demo/tracker/content.py:101
+#, fuzzy
+#| msgid ""
+#| "This needs to be done as soon as possible so that seed can start to be "
+#| "distributed"
+msgid "This needs to be resolved as soon as possible"
+msgstr ""
+"Cela doit être fait le plus tôt possible pour que les semences puissent "
+"commencerdistribué"
+
+#: demo/tracker/content.py:100
+msgid "Send out the agreed contract to the new IT consultant"
+msgstr ""
+"Envoyez le contrat convenu au nouveau consultant informatique"
+
+#: demo/tracker/content.py:114
+msgid "Awaiting confirmation of receipt from the consultant in question"
+msgstr ""
+"En attente de confirmation de réception du consultant en question "
+
+#: demo/tracker/content.py:126 demo/tracker/content.py:148
+msgid "Review and sign off on budgets for the next quarter"
+msgstr ""
+"Examiner et approuver les budgets pour le prochain trimestre"
+
+#: demo/tracker/content.py:139
+msgid ""
+"Budgets have been sent to @**Aminata Kallon**<!--57602-->. Please mark as "
+"completed once you have signed them"
+msgstr ""
+"Les budgets ont été envoyés à @ ** Aminata Kallon ** <! - 57602 ->. Veuillez les marquer comme"
+"terminé une fois que vous les avez signés"
+
+#: demo/tracker/teams.py:12
+msgid "Senior management"
+msgstr "La haute direction"
+
+#: demo/tracker/teams.py:27
+msgid "Accounting"
+msgstr "Comptabilité"

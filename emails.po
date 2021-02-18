@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-11 10:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: emails/action_emails.py:10
+msgid "You have been assigned a new action"
+msgstr "Une nouvelle action vous a été attribuée"
+
+#: emails/action_emails.py:28
+msgid "New issue raised"
+msgstr "Nouveau problème soulevé"
+
+#: emails/action_emails.py:42
+msgid "One of your actions has been updated"
+msgstr "Une de vos actions a été mise à jour"
+
+#: emails/action_emails.py:57
+msgid "You have been tagged in an action update"
+msgstr "Vous avez été tagué dans une mise à jour d'action"
+
+#: emails/action_emails.py:72
+msgid "Action"
+msgstr "Action"
+
+#: emails/action_emails.py:89
+msgid "New milestone assigned to your intervention"
+msgstr "Nouveau jalon assigné à votre intervention "
+
+#: emails/scheduled_emails.py:15
+msgid "due tomorrow"
+msgstr "dû demain"
+
+#: emails/scheduled_emails.py:21
+msgid "now overdue"
+msgstr "maintenant en retard"

@@ -1,0 +1,199 @@
+{
+    translation: {
+      "This site is not available on mobile": "Ce site n'est pas disponible sur mobile",
+      "Are you sure you're ready to launch the dashboard?": "Êtes-vous sûr d'être prêt à lancer le tableau de bord?",
+      "Launch": "Lancer", // "Are you ready to launch the dashboard?"
+      "Dashboard setup successfully. The admin user has been emailed with further instructions": "Configuration du tableau de bord réussie. L'utilisateur administrateur a reçu un e-mail avec des instructions supplémentaires",
+      "Setup new dashboard": "Configurer un nouveau tableau de bord",
+      "Dashboard name": "Nom du tableau de bord",
+      "Dashboard language": "Langue du tableau de bord",
+      "Action tracker only?": "Suivi d'action uniquement?",
+      "Admin user name": "Nom d'utilisateur administrateur",
+      "Admin user position": "Position de l'utilisateur administrateur",
+      "Admin user email": "E-mail de l'utilisateur administrateur",
+      "Date": "Date", // "The date today is 3 November"
+      "Value": "Valeur", // "The value of x is 3"
+      "Please use a valid number for the target update": "Veuillez utiliser un numéro valide pour la mise à jour cible",
+      "Assigned to": "Attribué à",
+      "Create new user": "Créer un nouvel utilisateur",
+      "New user": "Nouvel utilisateur",
+      "Please complete all fields": "Remplissez tous les champs",
+      "Name": "Nom",
+      "Position": "Position", // "His position was 'Head of department'
+      "Email": "E-mail",
+      "User is dashboard admin?": "L'utilisateur est l'administrateur du tableau de bord?",
+      "User is TBI adviser?": "L'utilisateur est le conseiller TBI?",
+      "User is observer only?": "L'utilisateur est un observateur uniquement?",
+      "Change password": "Changer le mot de passe",
+      "Enter your new password": "Entrez votre nouveau mot de passe",
+      "Confirm your new password": "Confirmez votre nouveau mot de passe",
+      "Log out": "Se déconnecter",
+      "Switch dashboards": "Changer de tableau de bord",
+      "View main site": "Voir le site principal",
+      "View settings / planning": "Afficher les paramètres / la planification",
+      "Tracker": "Suivi",
+      "Milestones": "Jalons",
+      "The": "Le",
+      "of the": "du",
+      "complete": "terminé", // This target is 30% complete
+      "Budget": "Budget",
+      "funded": "financé", // This intervention is 30% funded
+      "Current actions": "Actions en cours", // Current actions for this intervention
+      "Lead": "Responsable", // The lead of the intervention is
+      "Co lead": "Co-responsable", // The co lead of the intervention is
+      "lead": "responsable", // The lead of the intervention is
+      "co-lead": "co-responsable", // The co lead of the intervention is
+      "Actions": "Actions", // What actions are due today?
+      "No milestones to show": "Aucun jalon à afficher",
+      "Completed": "Réalisé", // This action is completed
+      "Due": "Dû", // This action is due today
+      "Targets": "Cibles", // the targets for this intervention are...
+      "Started at": "Commencé à", // This target started at 25% complete
+      "Currently": "Actuellement", // This target is currently 50% completed
+      "Funding": "Financement", // The funding for this intervention is from
+      "Total funding": "Financement total", // The total funding for this intervention is
+      "To update this target please go to the intervention page": "Pour mettre à jour cet objectif, veuillez vous rendre sur la page d'intervention",
+      "Change update": "Modifier la mise à jour",
+      "Extension requested until": "Extension demandée jusqu'au",
+      "Milestone": "Jalon",
+      "suggested as completed": "suggéré comme terminé",
+      "Download supporting document": "Télécharger le document de support",
+      "Open Issue": "Problème en suspens", // There is an open issue in the finance department
+      "Open Issues": "Problèmes en suspens", // There are open issues in the finance department
+      "Completed on": "Terminé le", // This action was completed on
+      "Due for completion on": "Dû à l'achèvement le",
+      "Raised on": "Élévé sur", // This issue was raised on
+      "Change": "Changer", // I want to change this data
+      "Create": "Créer", // I want to create a new action
+      "Issue": "Problème", // This has been raised as an issue
+      "Action": "Action", // This is an action that needs to be completed
+      "Title": "Titre",
+      "Description": "La description",
+      "Select a": "Choisissez une", // Select a team
+      "Select a user": "Sélectionnez un utilisateur",
+      "Deadline": "Date limite",
+      "Choose a dashboard": "Choisissez un tableau de bord",
+      "Add an update (tag people using '@')":  "Ajouter mise à jour (taguer à l'aide de '@')",
+      " (Target completed)": " (Objectif atteint)",
+      "All teams": "Toutes les équipes",
+      "All interventions": "All interventions",
+      "Today": "Aujourd'hui",
+      "Tomorrow": "Demain",
+      "Yesterday": "Hier",
+      "Overdue": "En retard",
+      "Ongoing": "En cours",
+      "Archived": "Archivé",
+      "Raised by": "Élevé par",
+      "Assigned by": "Attribué par",
+      "Status": "Statut",
+      "No actions to display": "Aucune content à afficher",
+      "Go to tracker table": "Aller au tableau de suivi",
+      "Upcoming deadlines": "Echéances à venir",
+      "Recently completed": "Réalisé récemment",
+      "Most overdue": "Le plus en retard",
+      "Recently raised issues": "Problèmes récemment soulevés",
+      "No content to show": "Aucune content",
+      "Timeline": "Chronologie", // What is the timeline for this intervention?
+      "Assigned to me": "Assigné à moi",
+      "Recent logins": "Logins récents",
+      "Raise issue": "Soulever une problème",
+      "Add milestone": "Ajouter un jalon",
+      "Add task": "Ajouter une tâche",
+      "Select team first": "Sélectionnez d'abord l'équipe",
+      "Filter by category (select team first)": "Filtrer par catégorie (sélectionnez d'abord l'équipe)",
+      "Filter by category": "Filtrer par catégorie",
+      "Filter by intervention": "Filtrer par intervention",
+      "Filter by user": "Filtrer par utilisateur",
+      "Group by user": "Grouper par utilisateur",
+      "Filter by starred": "Filtrer par favoris",
+      "Accept this update?": "Accepter cette mise à jour?",
+      "Change Due Date": "Modifier la date d'échéance",
+      "Select a new due date": "Sélectionnez une nouvelle date d'échéance",
+      "Change deadline": "Modifier la date limite",
+      "Password too short": "Mot de passe trop court",
+      "Passwords do not match": "Les mots de passe ne correspondent pas",
+      "Password not strong enough": "Mot de passe pas assez fort",
+      "Convert to action": "Convertir en action",
+      "Select a due date and assignee": "Sélectionnez une date d'échéance et un cessionnaire",
+      "Deleting this content cannot be undone": "La suppression de cette content ne peut pas être annulée",
+      "Are you sure you want to delete this donor?": "Voulez-vous vraiment supprimer ce donateur?",
+      "Deleting this ": "Supprimer ceci ",
+      "category": "catégorie",
+      "will also delete all ": "supprimera également tout ",
+      "actions": "actions",
+      "milestones": "jalons",
+      " and cannot be undone": " et ne peut pas être défait", // Deleting this action is permanent and cannot be undone
+      "Deleting this target will also delete all associated updates?": "La suppression de cette cible supprimera également toutes les mises à jour associées?",
+      "Mark as completed": "Marquer comme terminé", // I want to mark this action as completed
+      "Suggest completed": "Suggérer terminé", // I want to suggest that this action is completed
+      "Please give reasons for rejecting this update": "Veuillez indiquer les raisons du refus de cette mise à jour",
+      "Suggest a new deadline and give reasons for the change": "Suggérer une nouvelle date limite et motiver le changement",
+      "Request extension": "Demander une extension", // I want to suggest an extenstion
+      "Select a new deadline": "Sélectionnez une nouvelle date limite",
+      "Provide reasons / evidence for marking this content as completed": "Fournir des raisons / preuves pour marquer ce contenu comme terminé",
+      "Update target": "Mettre à jour la cible",
+      "Target": "Cible", // This is the main target of the intervention
+      "Change content": "Changer de contenu", // I want to change this content
+      "okay": "d'accord", // password strength is ok
+      "good": "bien", // password strength is good
+      "strong": "fort", // password strength is strong
+      "very strong": "très fort",  // password strength is very strong
+      "/tracker": "/suivi-daction", // link to action tracker
+      "tracker": "suivi-daction", // link to action tracker
+      "/my-content": "/mon-contenu", // link to regular user my content
+      "Logo": "Logo",
+      "Upload": "Télécharger", // I want to upload a document
+      "e.g. Ministry of Finance Project Tracker": "par exemple: Suivi de projet du ministère des Finances",
+      "Country": "Pays",
+      "Purpose / goal": "But / objectif", // What is the purpose / goal of the project
+      "e.g. To mitigate the long terms effects of covid on the economy": "Par exemple: Pour atténuer les effets à long terme du covid sur l'économie",
+      "Name for main areas": "Nom des zones principales",
+      "E.g. Priority area, Flagship project, Pillar": "Par exemple. Domaine prioritaire, projet phare, pilier",
+      "Name for sub areas": "Nom des sous-zones",
+      "e.g. Intervention, Project, Strategic action": "par exemple: Intervention, projet, action stratégique",
+      "Main areas": "Zones principales", // e.g. priority areas, teams, projects
+      "Add": "Ajouter", // I want to add an action
+      "main area": "zone principal",  // e.g. priority area, team, project
+      "Ref": "Réf", // What is the reference for this intervention e.g. 1.1
+      "Select a lead user": "Sélectionnez un utilisateur principal",
+      "Select a co lead user": "Sélectionnez un co-utilisateur principal",
+      "Goal": "Objectif", // What is the goal of this project
+      "Edit": "Modifier", // Edit these details
+      "Save": "Enregistrer", // Save these details
+      "Custom milestones": "Jalons personnalisés",
+      "Reference": "Réference", // What is the reference for this intervention e.g. 1.1
+      "A general overview of the aims and goals of this " :"Un aperçu général des buts et objectifs de cette ",
+      "Donors": "Donateurs", // Who are the donor for this project
+      "Add another donor": "Ajouter un autre donateur",
+      "Donor name": "Nom du donateur",
+      "Amount": "Montant", // The amount given by the donor
+      "Add another target": "Ajouter une autre cible",
+      "Target amount": "Montant cible",
+      "Starting amount": "Montant de départ",
+      "Unit": "Unité", // The unit a target is measured in, e.g. Kgs
+      "kgs of rice distributed": "kg de riz distribués", // an example unit
+      "Add another": "Ajouter un autre", // add another target
+      "name": "nom",
+      "Admin one": "Admin un", // The admins for the project
+      "Admin two": "Admin deux", // The admins for the project
+      "Select a lead": "Sélectionnez un responsable",
+      "Select a co-lead": "Sélectionnez un co-responsable",
+      "Milestones are automatically generated from your targets at 3 month intervals. To add your own custom milestones, use the form below": ",Les jalons sont automatiquement générés à partir de vos objectifs à intervalles de 3 mois. Pour ajouter vos propres jalons personnalisés, utilisez le formulaire ci-dessous",
+      "Select an assignee": "Sélectionnez un cessionnaire",
+      "View": "Voir", // View the projects in this dashboard
+      "Admin restricted": "Administrateur restreint",
+      "Tracker table": "Tableau de suivi",
+      "/planning": "/planification", // I want to view the planning pages for this dashboard
+      "/milestones": "/jalons",
+      "name is too long": "nom est trop long",
+      "Action tracker": "Suivi d'action",
+      "Dashboard": "Tableau de bord",
+      "Purpose / goal is too long": "Le but / objectif est trop long",
+      "Add new": "Ajouter nouveau", // Add a new project to the dashboard
+      "Save changes": "Sauvegarder les modifications", // Save changes to this data
+      "action tracker": "suivi d'action",
+      "dashboard": "tableau de bord",
+      "Description / goals": "Description / objectifs",
+      "Donors / Stakeholders": "Donateurs / parties prenantes",
+    }
+  }
